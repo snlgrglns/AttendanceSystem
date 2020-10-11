@@ -1,0 +1,70 @@
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\AttendenceSystem.exe
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\AttendenceSystem.pdb
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.csprojResolveAssemblyReference.cache
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\MainWindow.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\SettingsPage.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\App.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\MainWindow.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\SettingsPage.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\App.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem_MarkupCompile.cache
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.g.resources
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.exe
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.pdb
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpRegister.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem_MarkupCompile.lref
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpRegister.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\AttendenceSystem.exe.config
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\pcsc-sharp.dll
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\pcsc-sharp.xml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpList.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpList.g.cs
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem_Content.g.cs
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.dll
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.xml
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\CreateCard.baml
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\CreateCard.g.cs
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord.baml
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord.g.cs
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord2.baml
+C:\Users\IT Deurali\Documents\Visual Studio 2015\Projects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord2.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\AttendenceSystem.exe.config
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.exe
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.pdb
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\AttendenceSystem.exe
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\AttendenceSystem.pdb
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.dll
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\FirstFloor.ModernUI.dll
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\pcsc-sharp.dll
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.xml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\FirstFloor.ModernUI.xml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\bin\Debug\pcsc-sharp.xml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\MainWindow.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord2.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpList.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\SettingsPage.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\App.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\MainWindow.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\AttendenceRecord2.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\CreateCard.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpList.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpRegister.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\SettingsPage.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\App.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem_Content.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem_MarkupCompile.cache
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem_MarkupCompile.lref
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\CreateCard.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\Pages\EmpRegister.baml
+G:\VisualStudioProjects\AttendenceSystem\AttendenceSystem\obj\Debug\AttendenceSystem.g.resources

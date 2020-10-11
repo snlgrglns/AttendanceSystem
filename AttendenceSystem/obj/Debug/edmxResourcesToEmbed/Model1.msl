@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="attendenceModelStoreContainer" CdmEntityContainer="attendenceEntities">
+    <EntitySetMapping Name="attendence_record">
+      <EntityTypeMapping TypeName="attendenceModel.attendence_record">
+        <MappingFragment StoreEntitySet="attendence_record">
+          <ScalarProperty Name="at_id" ColumnName="at_id" />
+          <ScalarProperty Name="emp_id" ColumnName="emp_id" />
+          <ScalarProperty Name="attnd_date" ColumnName="attnd_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="employee_record">
+      <EntityTypeMapping TypeName="attendenceModel.employee_record">
+        <MappingFragment StoreEntitySet="employee_record">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="card_status" ColumnName="card_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

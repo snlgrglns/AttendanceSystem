@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="attendenceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="attendence_record">
+    <Key>
+      <PropertyRef Name="at_id" />
+    </Key>
+    <Property Name="at_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="emp_id" Type="int" Nullable="false" />
+    <Property Name="attnd_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="employee_record">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="first_name" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="last_name" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="date_of_birth" Type="date" Nullable="false" />
+    <Property Name="address" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="card_status" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="attendenceModelStoreContainer">
+    <EntitySet Name="attendence_record" EntityType="Self.attendence_record" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="employee_record" EntityType="Self.employee_record" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
